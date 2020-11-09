@@ -1,0 +1,74 @@
+---
+booktitle: Proceedings of IJCAI 2019 3rd Workshop on Artificial Intelligence in Affective
+  Computing
+shortname: AFFCOMP
+volume: 122
+year: '2019'
+published: 2020-11-09
+start: 2019-08-10
+end: 2019-08-10
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AFFCOMP2019
+month: 0
+cycles: false
+bibtex_editor: Hsu, William
+editor:
+- given: William
+  family: Hsu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of IJCAI 2019 3rd Workshop on Artificial Intelligence in Affective Computing
+    Held in Macao, China on 10 August 2019
+
+  Published as Volume 122 by the Proceedings of Machine Learning Research on 09 November 2020.
+
+  Volume Edited by:
+    William Hsu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 10 Aug
+author:
+  name: PMLR
+baseurl: "/v122"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v122
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Workshop on Artificial Intelligence in Affective Computing
+  url: 
+  location: Macao, China
+  dates:
+  - 2019-08-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v122/affcomp19.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v122/affcomp19.bib
